@@ -1,0 +1,16 @@
+
+
+<ul>
+  {{#each apple_comments}}
+  	<li>
+  	   <p>ID: {{this.id}}</p>
+       <p> {{this.comment}}</p>
+  	</li>
+  {{/each}}
+</ul>
+
+<form action="/" method="POST">
+	<textarea type="text" name="event"></textarea>
+
+	<button type="submit">Submit</button>
+</form>

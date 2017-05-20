@@ -1,0 +1,1020 @@
+#body{
+
+height:2500px;
+background-image: url("https://cdn.pixabay.com/photo/2015/09/20/07/21/dirt-947985__340.jpg");
+/*background-color: lemonChiffon;*/
+
+
+
+}
+
+#favorites{
+
+position: absolute;
+	bottom:850px;
+	height: 475px;
+	width:170px;
+	opacity: .83;
+	color: #2d1606;
+	border-radius: 9px;
+	left:1014px;
+	background-image: url("paper2.jpg");
+	border: solid #2d1606 7px;
+	font-size: 23px;
+	font-family: 'Cookie', cursive;
+
+}
+
+.log-in{
+
+	height: 268px;
+	width:281px;
+	border: solid #2d1606 2px;
+	/*background-color: black;*/
+	background-image: url("paper2.jpg");
+	background-size: contain;
+	position: absolute;
+	bottom:1776px;
+
+	left:885px;
+	border-radius: 9px;
+	z-index: -200;
+	opacity: .83;
+	color: #2d1606;
+
+
+}
+
+#save-favorites{
+	position:absolute;
+	top:4px;
+	left:90px;
+	font-size: 20px;
+	font-family: 'Cookie', cursive;
+}
+
+.btn-log{
+
+background-color: #8d6225;
+color: gold;
+border: solid #3c2a10 3px;
+border-radius: 3px;
+font-family: 'Indie Flower', cursive; 
+
+}
+
+#returning-user{
+	position: absolute;
+	top:47px;
+	left:23px;
+
+
+
+
+
+
+}
+
+
+#get-started{
+
+position: absolute;
+top:72px;
+left:29px;
+margin-top: 40px
+
+
+
+}
+
+
+
+#crunch1{
+
+	position: absolute;
+	top: 180px;
+	left:118px;
+}
+
+#crunch2{
+
+	position: absolute;
+	top: 203px;
+	left:223px;
+}
+
+
+.crunches{
+
+	visibility: hidden;
+	color: SaddleBrown;
+}
+
+
+
+
+
+.ima{
+
+height: 100%;
+width: 100%;
+z-index: -10;
+position:fixed;
+
+
+
+
+
+}
+
+
+
+#logo{
+
+width: 310px;
+z-index: 208;
+position: absolute;
+top:5px;
+font-family: 'Cookie', cursive;
+font-size: 82px;
+color: gold; 
+left: 44px;
+
+
+}
+
+
+
+#app-main{
+	height:1870px;
+	width: 1010px;
+	position: absolute;
+	top:255px;
+	left: 200px;
+	/*border: solid brown 5px;*/
+	border-radius: 6px;
+
+	z-index: 215;
+
+
+
+
+
+}
+
+
+.quick-info{
+		background-color: DodgerBlue;
+		color:gold;
+		width:130px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		border: solid gold 3px;
+		border-radius: 20px;
+		padding: 0px 0px 0px 4px;
+		margin-top: 14px;
+			font-size: 22px;
+
+}
+
+.brain{
+
+	background-color: SkyBlue;
+		color:mediumSlateBlue;
+		width:86px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		border: solid mediumSlateBlue 3px;
+		border-radius: 20px;
+		padding: 0px 0px 0px 9px;
+			font-size: 22px;
+
+
+
+}
+
+.nutrient-absorbtion{
+
+	background-color: LawnGreen;
+		color:khaki;
+		width:220px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		border: solid khaki 3px;
+		border-radius: 20px;
+		padding: 0px 0px 0px 15px;
+		margin-top: 14px;
+		font-size: 22px;
+
+
+
+
+}
+
+.fullness{
+
+background-color: LightSalmon;
+		color:LightPink;
+		width:100px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		border: solid LightPink 3px;
+		border-radius: 20px;
+		padding: 0px 0px 0px 10px;
+		margin-top: 14px;
+		font-size: 22px;
+
+
+
+}
+
+
+.energy{
+
+
+background-color: Chartreuse;
+		color:DarkRed;
+		width:86px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		border: solid DarkRed 3px;
+		border-radius: 20px;
+		padding: 0px 0px 0px 7px;
+		margin-top: 14px;
+		font-size: 22px;
+
+
+}
+
+.eyes{
+
+	background-color: MediumSeaGreen;
+		color:PowderBlue;
+		width:70px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		border: solid PowderBlue 3px;
+		border-radius: 20px;
+		padding: 0px 0px 0px 11px;
+		margin-top: 14px;
+		font-size: 22px;
+
+
+
+}
+
+.excercise {
+
+
+background-color: Navy;
+		color: Moccasin;
+		width:110px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		border: solid PowderBlue 3px;
+		border-radius: 20px;
+		padding: 0px 0px 0px 13px;
+		margin-top: 14px;
+			font-size: 22px;
+
+
+}
+
+
+
+.detoxification {
+
+	background-color: YellowGreen;
+		color:Yellow;
+		width:155px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		border: solid Yellow 3px;
+		border-radius: 20px;
+		padding: 0px 0px 0px 11px;
+		margin-top: 14px;
+			font-size: 22px;
+
+
+}
+
+.digestion{
+
+
+	background-color: LightGoldenRodYellow;
+		color:LightGreen;
+		width:108px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		border: solid LightGreen 3px;
+		border-radius: 20px;
+		padding: 0px 0px 0px 8px;
+		margin-top: 14px;
+		font-size: 22px;
+
+
+
+
+}
+
+.skin{
+
+	background-color: PeachPuff;
+		color:Peru;
+		width:69px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		border: solid Peru 3px;
+		border-radius: 20px;
+		padding: 0px 0px 0px 14px;
+		margin-top: 8px;
+
+
+
+}
+
+
+.heart{
+
+background-color: Crimson;
+		color:Maroon;
+		width:74px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		border: solid Maroon 3px;
+		border-radius: 20px;
+		padding: 0px 0px 0px 11px;
+		margin-top: 8px;
+
+
+
+
+
+}
+
+
+.fun-fact{
+
+
+background-color: Navy;
+		color:gold;
+		width:105px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		border: solid gold 3px;
+		border-radius: 20px;
+		padding: 0px 0px 0px 11px;
+		margin-top: 8px;
+
+
+}
+
+.bones{
+
+	background-color: Maroon;
+		color:LightGoldenRodYellow;
+		width:80px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		border: solid LightGoldenRodYellow 3px;
+		border-radius: 20px;
+		padding: 0px 0px 0px 8px;
+		margin-top: 8px;
+
+
+
+}
+
+
+.hydration{
+
+	background-color: PowderBlue;
+		color:MidnightBlue;
+		width:100px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		border: solid MidnightBlue 3px;
+		border-radius: 20px;
+		padding: 0px 0px 0px 9px;
+		margin-top: 8px;
+
+
+
+}
+
+.gut{
+
+background-color: BurlyWood;
+		color:coral;
+		width:74px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		padding: 0px 0px 0px 17px;
+		border: solid coral 3px;
+		border-radius: 20px
+
+}
+
+.hair {
+
+	background-color: Thistle;
+		color:Peru;
+		width:74px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		padding: 0px 0px 0px 17px;
+		border: solid Peru 3px;
+		border-radius: 20px
+
+
+
+}
+
+.blood-sugar {
+
+	background-color: DarkRed;
+		color:FloralWhite;
+		width:142px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		padding: 0px 0px 0px 17px;
+		border: solid FloralWhite 3px;
+		border-radius: 20px
+
+
+
+}
+
+
+.mood {
+
+
+background-color: DarkSeaGreen;
+		color:DarkSlateGray;
+		width:80px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		padding: 0px 0px 0px 17px;
+		border: solid DarkSlateGray 3px;
+		border-radius: 20px
+
+}
+
+.sleep{
+
+background-color: PowderBlue;
+		color:White;
+		width:80px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		padding: 0px 0px 0px 11px;
+		border: solid White 3px;
+		border-radius: 20px
+
+
+
+
+
+
+}
+
+
+
+.reproductive{
+
+
+	background-color: DodgerBlue;
+		color:Aquamarine;
+		width:136px;
+		font-family: 'Indie Flower', cursive;  
+		font-weight: bold;
+		padding: 0px 0px 0px 12px;
+		border: solid Aquamarine 3px;
+		border-radius: 20px
+
+
+}
+
+#nav-div{
+
+
+	position: absolute;
+	top:1px;
+	right:1px;
+	width:292px;
+	z-index: 208;
+}
+
+
+#body-div-fruit {
+
+color: maroon;
+font-size: 20px;
+font-family: 'Indie Flower', cursive;
+overflow: scroll;
+padding: 0px 6px 0px 6px;
+/*font-family: 'Amatic SC', cursive;*/
+/*font-family: 'Bad Script', cursive;*/
+
+}
+
+
+#body-div-veggie {
+
+
+color: ForestGreen;
+font-size: 20px;
+font-family: 'Indie Flower', cursive;
+overflow: scroll;
+padding: 0px 8px 0px 8px;
+border: solid PaleGreen 5px;
+
+}
+
+#recipe-div-veggie {
+
+	border: solid PaleGreen 5px;
+
+	
+}
+
+#comment-div-veggies {
+
+		border: solid PaleGreen 5px;
+}
+
+#body-div-grains {
+
+
+border: solid #cd853f 5px;
+
+}
+
+#recipe-div-grains {
+
+	border: solid #cd853f 5px;
+
+	
+}
+
+#comment-div-grains {
+
+		border: solid #cd853f 5px;
+}
+
+
+
+
+
+.display-div {
+
+
+	position: relative;
+	top: 99px;
+	left: 140px;
+	border: solid sienna 5px;
+	border-radius: 10px;
+	background:rgba(255,255,255,.4);
+	width:820px;
+	height:460px;
+	
+
+}
+
+
+#veggie-display{
+	
+	position: relative;
+	top: 252px;
+	overflow: scroll;
+	border-color: ForestGreen;
+
+
+}
+
+
+
+#fruit-display{
+
+	overflow: scroll;
+
+
+
+
+}
+
+
+#grains-display{
+
+
+	position: relative;
+	top:370px;
+	overflow: scroll;
+}
+
+.food{
+
+	height:180px;
+	width:150px;
+	border: solid gold 3px;
+	position: relative;
+	left:10px;
+	margin:12px;
+	font-family: 'Cookie', cursive;
+font-size: 20px
+
+}
+
+
+.item{
+
+height: 115px;
+width:620px;
+border: solid gold 6px;
+border-radius: 15px;
+margin: 20px;
+margin-top: 190px;
+position: relative;
+left:218px;
+top:70px;
+color: gold;
+
+}
+
+.headings{
+	color: gold;
+    margin-left: 386px;	
+    margin-top: 60px;
+    font-family: 'Cookie', cursive;
+    font-size: 45px;	
+}
+
+#comments-headings-fruit{
+
+	margin-left: 340px;
+}
+
+#comments-headings-veggies{
+
+	margin-left: 340px;
+}
+
+#comments-headings-grains{
+
+	margin-left: 340px;
+}
+
+
+.general-profile{
+
+height: 800px;
+width:1000px;
+background-color: green;
+top:20px;
+left:25px;
+border: solid sienna 5px;
+border-radius: 10px;
+background:rgba(255,255,255,.4);
+
+}
+
+
+#fruit-profile{
+
+position: relative;
+top:100px;
+overflow: scroll;
+
+
+}
+
+.fruit-info{
+
+background-color: Chartreuse;
+border: solid maroon 5px;
+width: 620px;
+margin-left:153px;
+margin-top:140px;
+overflow: scroll;
+
+
+}
+
+#selected-name-fruit{
+
+	position: relative;
+	float: left;
+	left: 40px;
+	color: maroon;
+	font-family: 'Griffy', cursive;
+	font-size: 30px;
+	z-index: 30px;
+	margin-left: 29px;
+	bottom: 32px;
+}
+
+#selected-name-veggie{
+
+	position: relative;
+	float: left;
+	left: 40px;
+	color: PaleGreen;
+	font-family: 'Griffy', cursive;
+	font-size: 30px;
+	z-index: 30px;
+	margin-left: 29px;
+	bottom: 143px;
+}
+
+#selected-name-grains{
+
+	position: relative;
+	float: left;
+	left: 40px;
+	color: yellow;
+	font-family: 'Griffy', cursive;
+	font-size: 30px;
+	z-index: 30px;
+	margin-left: 29px;
+	bottom: 141px;
+}
+
+
+
+#arrow4{
+	position: absolute;
+	bottom:16px;
+	right:30px;
+	width:15px;
+	/*float: left;*/
+
+}
+#arrow5{
+position: absolute;
+	top:5px;
+	bottom:16px;
+	right:30px;
+	width:15px;
+
+}
+
+#arrow6{
+position: absolute;
+	top:12px;
+	bottom:16px;
+	right:30px;
+	width:15px;
+
+}
+
+#veggie-profile{
+	position: relative;
+	top:210px;
+overflow: scroll;
+border-color: ForestGreen;
+
+
+}
+
+.veggie-info{
+
+background-color: Green;
+border: solid yellow 5px;
+width: 620px;
+margin-left:153px;
+margin-top:140px;
+overflow: scroll;
+
+}
+
+
+
+#grains-profile{
+position:relative;
+top:290px;
+overflow: scroll;
+
+}
+
+
+.grains-info{
+
+background-color: SaddleBrown;
+border: solid khaki 5px;
+width: 620px;
+margin-left:153px;
+margin-top:140px;
+overflow: scroll;
+
+
+
+}
+
+.profile-back{
+
+
+position: relative;
+left:40px;
+
+}
+
+
+
+
+.info-div-general{
+
+position: relative;
+top:9px;
+left: 145px;
+width: 644px;
+height: 320px;
+border: solid maroon 5px;
+background:rgba(255,255,255,.4);
+
+
+}
+
+.fruit-info-div {
+
+border: solid maroon 5px;
+
+}
+
+
+#fruit-body{
+
+	position: relative;
+	top:25px;
+	margin-left: 82px;
+	margin-right: 82px;
+	color: Maroon;
+}
+
+#fruit-nutrition{
+
+	position: relative;
+	top:25px;
+	margin-left: 82px;
+	margin-right: 82px;
+	color: Maroon;
+}
+
+#fruit-recipes{
+
+	position: relative;
+	top:25px;
+	margin-left: 82px;
+	margin-right: 82px;
+	color: Maroon;
+}
+
+
+#fruit-culture{
+
+	position: relative;
+	top:25px;
+	margin-left: 82px;
+	margin-right: 82px;
+	color: Maroon;
+}
+
+#fruit-body{
+
+	position: relative;
+	top:25px;
+	margin-left: 82px;
+	margin-right: 82px;
+	color: Maroon;
+}
+
+
+
+
+.fruit-propic{
+
+	border: solid white 5px;
+	border-radius: 6px;
+	width:112px;
+	height: 117px;
+	margin-top: 29px;
+	margin-left: 14px;
+	position: relative;
+	top:40px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4-FDVloV_hUXzpr0YkATY0xblinlF8bgNgYsvufL9Mo5Rq-NbJA");
+}
+
+.veggie-propic{
+
+	border: solid white 5px;
+	border-radius: 6px;
+	width:112px;
+	height: 117px;
+	margin-top: 29px;
+	margin-left: 14px;
+	position: relative;
+	top:40px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url("http://www.souljuicin.com/wp-content/uploads/2014/12/resized_425x282_red-beet.jpg");
+}
+
+
+.grains-propic{
+
+	border: solid white 5px;
+	border-radius: 6px;
+	width:112px;
+	height: 117px;
+	margin-top: 29px;
+	margin-left: 14px;
+	position: relative;
+	top:40px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url("https://cdn.authoritynutrition.com/wp-content/uploads/2015/01/almonds-in-a-bowl-on-wooden-table-max.jpg");
+}
+
+
+#/*plate3{
+	width:600px;
+	height: 600px;
+	position: absolute;
+	bottom:605px;
+	left:232px;
+	border: solid SaddleBrown 2px;
+	border-radius: 90px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url("http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=188096881");
+	z-index: -955;
+}*/
+
+.veggie-info-div{
+
+
+	border: solid green 5px;
+}
+
+
+.grains-info-div {
+
+border: solid SaddleBrown 5px;
+
+}
+
+.fa {
+position: relative;
+	top:1px;
+ font-size: 20px;
+
+}
+
+.fa:hover {
+        font-size: 24px;
+    }
+
+
+
+ #fruit-button { 
+
+ 					/*color: black;*/
+ 					font-size: 17px;
+ 					border-radius: 18px;
+ 					width: 590px;
+ 				/*	border: solid maroon 6px; */
+ 					font-family: 'Indie Flower', cursive;
+
+
+
+ }
+
+ #veggie-button {
+
+ 					/*color: black;*/
+ 					font-size: 17px;
+ 					border-radius: 18px;
+ 					width: 590px;
+ 					/*border: solid ForestGreen 6px; */
+ 					font-family: 'Indie Flower', cursive;
+
+ }
+
+ #grains-button {
+
+ 					/*color: black;*/
+ 					font-size: 17px;
+ 					border-radius: 18px;
+ 					width: 590px;
+ 					/*border: solid ForestGreen 6px; */
+ 					font-family: 'Indie Flower', cursive;
+
+
+
+
+
+
+
+
+ }
