@@ -899,10 +899,10 @@ border: solid maroon 5px;
 	margin-top: 29px;
 	margin-left: 14px;
 	position: relative;
-	top:40px;
-	background-size: contain;
-	background-repeat: no-repeat;
+	top:40px;	
 	background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4-FDVloV_hUXzpr0YkATY0xblinlF8bgNgYsvufL9Mo5Rq-NbJA");
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 .veggie-propic{
