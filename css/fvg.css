@@ -519,6 +519,8 @@ padding: 0px 6px 0px 6px;
 }
 
 
+
+
 #body-div-veggie {
 
 
@@ -536,6 +538,10 @@ border: solid PaleGreen 5px;
 	border: solid PaleGreen 5px;
 
 	
+}
+
+#recipe-div-fruit{
+	color: maroon;
 }
 
 #comment-div-veggies {
@@ -915,9 +921,9 @@ border: solid maroon 5px;
 	margin-left: 14px;
 	position: relative;
 	top:40px;
-	background-size: contain;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWUZxFB5HSFPh-1u5lqdqODXEqJjX0cwkMd9bpKoQi3g10xdWW");
+	background-size: cover;
 	background-repeat: no-repeat;
-	background-image: url("http://www.souljuicin.com/wp-content/uploads/2014/12/resized_425x282_red-beet.jpg");
 }
 
 
